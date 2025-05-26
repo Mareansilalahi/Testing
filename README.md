@@ -34,7 +34,7 @@
     </style>
 </head>
 <body>
-    <h1 class="judul-artikel">Belajar Membuat Artikel dengan HTML</h1>
+    <h1 class="judul-artikel">STANLEETOTO</h1>
     
     <img src="	https://files.catbox.moe/uczzxq.jpeg
 " alt="Contoh Gambar" class="gambar-artikel">
